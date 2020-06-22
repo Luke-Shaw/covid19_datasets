@@ -271,7 +271,7 @@ Blank - no data</td>
 <tr>
 <td style="font-weight:bold"><b>stats_population</b></td>
 <td>Population in 2020 as per United Nations, Department of Economic and Social Affairs, Population Division, World Population Prospects: The 2019 Revision</td>
-<td>Float number of tests</td>
+<td>Number of people</td>
  <td>166 Countries</td>
 <td>Our World in Data</td>
 </tr>
